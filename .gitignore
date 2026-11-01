@@ -1,0 +1,24 @@
+﻿# Python virtual environments
+.venv311/
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Gradio local files
+.gradio/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and certificates
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
