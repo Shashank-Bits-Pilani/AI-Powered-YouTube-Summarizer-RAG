@@ -109,4 +109,10 @@ GitHub: https://github.com/Shashank-Bits-Pilani
 
 ## License
 
-A license has not yet been specified for this project.
+## License
+
+This project is licensed under the **MIT License**.
+
+Copyright © 2026 Shashank Singh.
+
+See the [LICENSE](LICENSE) file for the full license terms.
